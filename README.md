@@ -8,6 +8,6 @@ In preparation of the class, you'll need to:
 
 2. Create a google co-lab account following the link https://colab.research.google.com/. It asks you to connect with your gmail account. 
 
-3. Upload the notebook "LiveLab Sept.21 - ML on transportation data" from this github folder, or from your local computer after downloading it.
+3. Upload the notebook "LiveLab Sept.21 - AI on dockless mobility" from this github folder, or from your local computer after downloading it.
 
 4. Make sure the datasets and the notebook are easily reachable for the time of the class (your desktop is the best option).
