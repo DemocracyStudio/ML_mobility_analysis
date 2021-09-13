@@ -10,4 +10,4 @@ In preparation of the class, you'll need to:
 
 3. Upload the notebook "LiveLab Sept.21 - ML on transportation data" from this github folder, or from your local computer after downloading it.
 
-4. Make sure the datasets and the notebook are easily reachable for the time of the class (your desktop is the best option) to make things easier as possible. 
+4. Make sure the datasets and the notebook are easily reachable for the time of the class (your desktop is the best option).
