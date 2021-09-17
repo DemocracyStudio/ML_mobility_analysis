@@ -10,4 +10,4 @@ In preparation of the class, you'll need to:
 
 3. In your google co-lab, your can either upload the notebook "LiveLab Sept.21 - AI on mobility data" from this github folder, or from your local computer after having downloaded it from this github folder.
 
-4. Make sure the datasets (and the notebook in case of local download) are easily reachable for the time of the class (your desktop is the best option).
+4. To make sure your datasets and the notebook will be easily reachable during the time of the class, upload them in the "Colab Notebooks" file of your Google Drive .
