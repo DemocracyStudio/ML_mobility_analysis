@@ -8,6 +8,9 @@ In preparation of the class, you'll need to:
 
 2. Create a google co-lab account following the link https://colab.research.google.com/. It asks you to connect with your gmail account. 
 
-3. In your google co-lab, your can either upload the notebook "LiveLab Sept.21 - AI on mobility data" from this github folder, or from your local computer after having downloaded it.
+3. If the open window do not open when you launch your google co-lab, click on the tab file > upload notebook. The window will let you chose between three options:
+- open the notebook "LiveLab Sept.21 - AI on mobility data" from this github folder, 
+- open it from your local computer after having downloaded it.
+- open it from your google drive after having downloaded it and uploaded in your drive. 
 
-4. To make sure your datasets and the notebook will be easily reachable during the time of the class, upload them in the primary file of your Google Drive, usually called "My Drive".
+4. To make sure your datasets will be easily reachable during the time of the class, upload them in the primary file of your Google Drive, usually called "My Drive".
