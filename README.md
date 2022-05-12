@@ -1,4 +1,4 @@
-# livelab-sept21
+# lMachine learning on Mobility Analysis, Livelab-sept21
 This file contains all the information needed to follow the LiveLab of Sept.21 organised by the Business School of AI.
 
 In preparation of the class, you'll need to:
